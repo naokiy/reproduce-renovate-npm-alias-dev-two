@@ -5,6 +5,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "ts": "npm:typescript@5.0"
+    "ts": "npm:typescript@5.1"
   }
 }
