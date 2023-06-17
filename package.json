@@ -3,5 +3,8 @@
   "version": "0.0.0",
   "description": "",
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ts": "npm:typescript@^5.0.4"
+  }
 }
